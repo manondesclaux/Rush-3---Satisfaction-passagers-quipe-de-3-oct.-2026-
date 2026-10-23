@@ -1,4 +1,4 @@
-# Rush 3 – Les 3M -  Satisfaction passagers 
+# Rush 3 - Satisfaction passagers 
 ## Contexte
 
 Une compagnie aérienne européenne a interrogé plus de 100 000 passagers. Sa direction Expérience Client veut :
